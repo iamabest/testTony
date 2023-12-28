@@ -146,7 +146,7 @@ function FastFood() {
                   </div>
                 </div>
               </div>
-              <div className="flex justify-end items-end mt-12">
+              <div className="flex justify-end items-end mt-12" >
                 <div className="flex flex-row items-center justify-center space-x-8">
                   <button className="text-base leading-none text-gray-800 dark:text-white border-b-2 border-transparent focus:outline-none focus:border-gray-800">
                     <p>1</p>
